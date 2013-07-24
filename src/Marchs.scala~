@@ -1,0 +1,5 @@
+package marchs
+
+object Marchs extends App {
+    def run
+}
